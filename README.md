@@ -4,7 +4,7 @@ This is a scrollable presentation website built using HTML and CSS. The website 
 ### Getting Started
 To get started with the Scrollable Website, you will need a web browser installed on your computer. The website is compatible with most modern web browsers, including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
 
-To launch the website, simply open the `index.html` file in your web browser.
+To launch the website, simply open the `index.html` file in your web browser or click on the <a href="https://benjaminachebe.github.io/Presentation-Website/" target="_blank">`link`</a>
 
 ### Structure
 The Scrollable Website is structured as follows:
